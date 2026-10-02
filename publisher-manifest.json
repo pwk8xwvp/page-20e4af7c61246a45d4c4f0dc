@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "0db9620204ef2e6418e74d48",
+  "owner": "pwk8xwvp",
+  "repo": "page-20e4af7c61246a45d4c4f0dc",
+  "title": "Bitz",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "20e4af7c61246a45d4c4f0dc",
+      "a": "Bitz",
+      "b": "",
+      "entity": "Bitz",
+      "brand": "Bitz",
+      "separator": "",
+      "path": "index.html",
+      "hash": "64f232a12109d6964992d35072408241216a494961c54c9adaa647b1f25ec789",
+      "content": {
+        "keyword1": "Bitz",
+        "keyword2": "",
+        "primary_entity": "Bitz",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Bitz是面向个人与团队的官方网络加速服务，提供稳定机场订阅、多平台VPN客户端下载与高速梯子节点，覆盖流媒体解锁、游戏加速和跨境办公，套餐从基础版到团队版可选。",
+          "AI_DESCRIPTION": "Bitz是面向个人与团队的官方网络加速服务，提供稳定机场订阅、多平台VPN客户端下载与高速梯子节点，覆盖流媒体解锁、游戏加速和跨境办公，套餐从基础版到团队版可选。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*:before,*:after{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#071422;color:#e8f4f8;font-size:16px;line-height:1.7}a{color:#2dd4bf;text-decoration:none}a:hover{text-decoration:underline}header{background:#0a1f38;border-bottom:1px solid #16405f;padding:12px 0}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand{font-weight:700;font-size:1.25rem;color:#5eead4}nav{display:flex;flex-wrap:wrap;gap:12px 16px}nav a{color:#cfeaf0;font-size:0.95rem}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}main{display:block}.hero{padding:36px 0 20px}h1{margin:0 0 12px;font-size:1.7rem;line-height:1.3;color:#5eead4}h2{margin:0 0 14px;font-size:1.35rem;color:#99f6e4}h3{margin:0 0 8px;font-size:1.08rem;color:#a5f3fc}p{margin:0 0 12px;color:#d5e7ee}.lead{font-size:1.05rem;color:#c5dde6}section{padding:32px 0}.band{background:#08182c;border-top:1px solid #123049;border-bottom:1px solid #123049}.row{display:flex;flex-direction:column;gap:18px}.panel{background:#0d243f;border:1px solid #1e3a5f;border-radius:12px;padding:18px}.muted{color:#8aa4b5}.list{margin:0;padding-left:1.15em}.list li{margin:0 0 8px}.steps{counter-reset:step}.steps li{margin:0 0 10px}.plans{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:stretch}.plan{width:100%;max-width:330px;background:#0d243f;border:1px solid #1e3a5f;border-radius:14px;padding:22px 18px;display:flex;flex-direction:column}.plan.featured{border:2px solid #2dd4bf;background:#0e2d4a;box-shadow:0 0 0 4px rgba(45,212,191,0.12)}.badge{display:inline-block;background:#134e4a;color:#99f6e4;border-radius:999px;padding:2px 10px;font-size:0.78rem;margin-bottom:8px}.price{font-size:1.55rem;font-weight:700;color:#5eead4;margin:4px 0}.annual{color:#8aa4b5;font-size:0.92rem;margin-bottom:12px}.plan ul{margin:0 0 16px;padding-left:1.1em;flex:1}.cta{display:inline-block;background:#115e59;color:#ecfeff;border-radius:8px;padding:10px 14px;text-align:center}.cta:hover{text-decoration:none;background:#0f766e}.dl-grid{display:flex;flex-wrap:wrap;gap:12px}.dl{flex:1 1 220px;background:#0d243f;border:1px solid #1e3a5f;border-radius:10px;padding:14px}details{background:#0d243f;border:1px solid #1e3a5f;border-radius:10px;padding:0 14px;margin:0 0 10px}summary{padding:13px 0;font-weight:600;color:#ccfbf1}details p{padding-bottom:12px}footer{background:#061018;border-top:1px solid #123049;padding:28px 0 40px;color:#9fb6c2}footer h2,footer h3{color:#99f6e4}.foot-grid{display:flex;flex-wrap:wrap;gap:20px}.foot-col{flex:1 1 200px}.adbox{border:1px dashed #2a5a6e;border-radius:10px;padding:12px;color:#c5dde6}.friends a{display:inline-block;margin:0 10px 8px 0}@media (min-width:768px){h1{font-size:2.15rem}.row{flex-direction:row;align-items:center}.row.rev{flex-direction:row-reverse}.row > *{flex:1}}</style><header><div class=\"wrap\"><a class=\"brand\" href=\"#top\">Bitz</a><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐对比</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main id=\"top\"><section class=\"hero\"><div class=\"wrap\"><h1>Bitz 官方网站：机场订阅、VPN 客户端与网络加速梯子</h1><p class=\"lead\">Bitz 是面向个人与团队的官方网络加速服务。我们提供可导入主流客户端的机场订阅、多端官方下载入口，以及面向流媒体、游戏与跨境办公的稳定梯子线路。</p><p>请认准 Bitz 官网获取订阅与客户端，避免第三方仿冒站点造成账号与设备风险。本页集中说明套餐差异、使用步骤与常见问题，便于一次完成选型与上手。</p></div></section><section id=\"intro\" class=\"band\"><div class=\"wrap\"><h2>Bitz 品牌简介</h2><div class=\"row\"><div><p>Bitz 定位为干净、可预期的机场服务，而不是堆砌无法核验的宣传数字。用户通过官网选择套餐后即可获得订阅，在 Windows、macOS、Android、iOS 以及 Clash 等客户端中导入使用。</p><p>线路侧覆盖日常浏览、视频解锁与游戏加速需求。基础版满足轻量跨境访问；旗舰版强化原生流媒体与 IPLC 游戏优化；团队版面向多设备与定制路由。所有说明以套餐对照为准，便于按流量、设备数和场景做决定。</p></div><div class=\"panel\"><h3>官方身份与使用边界</h3><ul class=\"list\"><li>唯一推荐入口：Bitz 官方网站与官方下载说明</li><li>服务形态：机场订阅 + 多端 VPN/加速器客户端</li><li>适用对象：个人观影学习、游戏加速、小团队远程协作</li><li>不承诺无法核验的“全球第一”或虚构评分</li></ul></div></div></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"row rev\"><div class=\"panel\"><h3>流媒体与内容访问</h3><p>需要稳定观看海外影视、音乐与直播时，可选择支持基础或全节点原生解锁的套餐。旗舰版与团队版更适合对片源完整性要求更高的用户，减少因节点质量导致的反复切换。</p></div><div><h3>游戏与实时通讯</h3><p>对延迟敏感的对战、更新下载与语音通话，可优先使用带 IPLC 专线优化的旗舰线路。团队版额外提供更高带宽节点，适合多人同时在线时的峰值流量。</p><h3>办公、学术与多设备</h3><p>远程桌面、代码仓库、文献库与云盘同步属于持续性流量场景。基础版适合单人轻量办公；设备数更多或需要企业定制路由时，直接对照团队版即可。</p></div></div></div></section><section id=\"guide\" class=\"band\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"row\"><div><ol class=\"steps list\"><li>在套餐对比中确认流量、同时在线设备数与线路类型，选择基础版、旗舰版或团队版。</li><li>完成开通后，在用户中心复制机场订阅链接（Clash / 通用订阅格式）。</li><li>前往本页客户端下载说明，安装对应系统的官方或兼容客户端。</li><li>导入订阅、更新节点列表，按场景选择普通节点、流媒体节点或游戏加速节点后连接。</li><li>若设备数或流量不足，按年付说明升级同一账号套餐，无需反复更换客户端。</li></ol></div><div class=\"panel\"><h3>导入要点</h3><p class=\"muted\">订阅是核心，客户端只是承载工具。请只从官网指引的渠道安装，避免来路不明的安装包。连接失败时先更新订阅，再切换协议或节点分组，而不是反复重装。</p><p><a href=\"#download\">查看各端下载说明</a> · <a href=\"#faq\">阅读常见问题</a></p></div></div></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐对比</h2><p>以下为 Bitz 当前公开套餐。价格与权益以本页对照为准，年付可降低月均成本。旗舰版适合大多数需要流媒体与游戏加速的个人用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"list\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#download\">按基础版去下载客户端</a></article><article class=\"plan featured\"><p class=\"badge\">对比推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"list\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">按旗舰版去下载客户端</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"list\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#download\">按团队版去下载客户端</a></article></div></div></section><section id=\"nodes\" class=\"band\"><div class=\"wrap\"><h2>线路与客户端生态</h2><div class=\"row\"><div><p>Bitz 节点按用途分组：常规浏览、流媒体解锁、游戏加速与高带宽传输。旗舰版强调 IPLC 游戏优化与原生解锁；团队版在此基础上增加 VIP 带宽与定制路由，适合办公室或多成员共享。</p><p>客户端层面兼容常见机场用法：Clash 系、系统 VPN 配置以及各系统独立客户端。同一份订阅可在额度内的多台设备使用，具体上限见套餐对比。</p></div><div class=\"panel\"><h3>选型对照（简表）</h3><p>轻量访问与 3 台设备：基础版。<br>观影 + 游戏 + 5 台设备：旗舰版。<br>20 台设备、共享带宽与客户经理：团队版。</p><p class=\"muted\">流量按自然月重置。高峰时段建议优先使用对应分组节点，而不是无差别扫节点。</p></div></div></div></section><section id=\"download\"><div class=\"wrap\"><h2>Bitz 客户端下载与官网入口</h2><p>以下为官方使用说明中的客户端方向。安装完成后导入机场订阅即可作为 VPN 梯子使用。请勿在非官网镜像下载可执行文件。</p><div class=\"dl-grid\"><div class=\"dl\"><h3>Windows / macOS</h3><p>使用桌面 Clash 兼容客户端或 Bitz 桌面端导入订阅，适合办公与长时间挂机。下载后先允许系统网络扩展，再更新节点。</p><p><a href=\"#guide\">回到操作说明</a></p></div><div class=\"dl\"><h3>Android</h3><p>推荐兼容 Clash Meta 的客户端。安装来源请走官网给出的正式包说明，导入订阅后开启分应用代理可节省流量。</p></div><div class=\"dl\"><h3>iOS</h3><p>通过兼容应用导入订阅。若商店应用变更，以官网最新指引为准，避免使用来路不明的描述文件。</p></div><div class=\"dl\"><h3>订阅格式</h3><p>提供通用订阅与 Clash 配置。复制链接后在客户端“从 URL 更新”。团队版可按部门拆分路由策略。</p></div></div></div></section><section id=\"faq\" class=\"band\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>Bitz 是机场还是 VPN？和普通加速器有何不同？</summary><p>Bitz 以机场订阅为核心，用户可在多种 VPN/加速器客户端中使用同一套节点。它强调可导入、可多端、可按套餐扩容，而不是绑定单一封闭 App。官网同时提供客户端下载说明与套餐对照，方便把“订阅”和“客户端”分开理解。</p></details><details><summary>如何完成官网下载并第一次连上梯子？</summary><p>先选定套餐并获取订阅链接，再按系统安装对应客户端，在客户端中粘贴订阅、更新节点后连接。若提示未联网，检查系统代理权限、关闭冲突的旧 VPN，然后切换至常规节点组重试。完整顺序见操作说明。</p></details><details><summary>三个套餐该怎么对比选择？</summary><p>看三件事：月流量、同时在线设备、线路能力。100GB/3 台/基础流媒体选基础版；300GB/5 台/原生解锁与 IPLC 游戏优化选旗舰版；1000GB/20 台/高带宽与定制路由选团队版。年付价格已在各套餐中标明。</p></details><details><summary>是否支持 Netflix 等流媒体以及游戏加速？</summary><p>基础版覆盖基础流媒体；旗舰版与团队版提供全节点原生流媒体解锁。游戏方面，旗舰版含 IPLC 专线优化，团队版另有 VIP 高带宽节点。实际可用性随目标站点策略变化，连接后请选择对应分组而不是随机节点。</p></details><details><summary>设备数超限或流量用尽怎么办？</summary><p>同时在线台数由套餐限制：3 / 5 / 20。超出后新设备无法登录或会被踢下线。流量用尽将无法继续转发，可等待月度重置或升级到更高档。团队版适合需要长期共享的小团队，不必为每台设备单独开号。</p></details><details><summary>如何识别 Bitz 官方网站，避免假下载？</summary><p>认准品牌名 Bitz 与本站结构中的套餐对照、操作说明和客户端说明。不要通过来路不明的群文件、破解包或第三方“加速器合集”安装。订阅链接只在开通后的用户侧生成，不会以附件形式随便传播。</p></details></div></section><section id=\"about\"><div class=\"wrap\"><h2>官网说明</h2><p>本页为 Bitz 官方网站内容页，主题围绕机场订阅、VPN 梯子网络加速与客户端下载。信息不包含虚构评分或用户评论列表。合作与团队版对接请通过优先工单或客户经理渠道，个人用户按套餐自助开通即可。</p><p><a href=\"#plans\">返回套餐对比</a> · <a href=\"#top\">回到顶部</a></p></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"foot-grid\"><div class=\"foot-col\"><h3>站点地图</h3><p><a href=\"#top\">首页</a><br><a href=\"#intro\">品牌简介</a><br><a href=\"#scenes\">使用场景</a><br><a href=\"#guide\">操作说明</a><br><a href=\"#plans\">套餐对比</a><br><a href=\"#download\">客户端下载</a><br><a href=\"#faq\">常见问题</a></p></div><div class=\"foot-col\"><h3>广告</h3><div class=\"adbox\">Bitz 官方套餐对照位：个人优先看旗舰版流量与 IPLC，团队按设备数评估。合作投放仅展示文字信息，不跳转外部未知下载源。</div></div><div class=\"foot-col\"><h3>友链</h3><p class=\"friends\"><a href=\"#download\">官方下载说明</a><a href=\"#plans\">套餐中心</a><a href=\"#faq\">帮助中心</a><a href=\"#guide\">订阅导入指南</a></p></div></div><p class=\"muted\">© Bitz 官方网站 · 机场订阅与 VPN 网络加速服务 · 客户端请从官网指引获取</p></div></footer>",
+          "hash": "c2d37cf2be5669ea20eb5e0cfb26accd8eb0f31b7a2edd6dff1dc76fc24cb8d5",
+          "seo": {
+            "title": "Bitz官网 | VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "Bitz,Bitz官网,Bitz机场,Bitz VPN,VPN梯子,网络加速,加速器,客户端下载,机场订阅,官方下载,IPLC加速",
+            "description": "Bitz是面向个人与团队的官方网络加速服务，提供稳定机场订阅、多平台VPN客户端下载与高速梯子节点，覆盖流媒体解锁、游戏加速和跨境办公，套餐从基础版到团队版可选。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fbxalzl.cn",
+    "host": "p-b3b38f308a.fbxalzl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "agica.cn",
+      "url": "https://agica.cn/",
+      "label": "Bitz",
+      "apex": "agica.cn",
+      "kind": null,
+      "identity": "bmayjvtaa/page-2ba47ad937a476ee7987fa13"
+    },
+    {
+      "host": "akivs.cn",
+      "url": "https://akivs.cn/",
+      "label": "Bitz",
+      "apex": "akivs.cn",
+      "kind": null,
+      "identity": "kbxmsy/page-557d3d7202e72c3b356abaf4"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ed43afa2efc5049b9f80de0313893d5dbbb42d0159840981dbd64dc4da991a8f",
+    "sitemap.xml": "ae027a631630005fe18c2f1265546c66c26a34f1fab0c845ee385179fb142046",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "068b26775bb5822f7d71b7e32c0770adeede849e0560134c6ec56e6fadf36a44",
+    "robots.txt": "7dec38bf74dc3faa94f0ccc46fa90ee950ef83d7e2038e14ef61e49e2ffd549f",
+    "ae0d5426d52b5058a8a19b5eb422397d.txt": "c7c432f931a44c328e662f831b870150a9fc36232e5a883076ac43abb7710c0f"
+  },
+  "revision": "5a863b5f4042363049f60e06bb7cc77fe22d29d3a01fced350568d1c3391d9eb"
+}
